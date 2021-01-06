@@ -78,7 +78,7 @@
   },
   "dependencies": {
     "antd": "^4.5.2",
-    "axios": "^0.18.0",
+    "axios": "^0.21.1",
     "bizcharts": "^4.0.12",
     "bootstrap": "^4.2.1",
     "ckeditor4-react": "^1.0.0",
